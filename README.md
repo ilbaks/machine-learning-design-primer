@@ -16,7 +16,9 @@ Some helpful notes for Machine Learning System Design Interview preparation, whi
 [ML Systems Design Interview Guide](http://patrickhalina.com/posts/ml-systems-design-interview-guide/)
 
 [ML System Design interview example](https://youtu.be/VPg2Uu1MYgI)
+
 [ML System Design interview example-2](https://www.youtube.com/watch?v=WKYPQtqE-m0)
+
 [ML System Design interview example-3](https://www.youtube.com/watch?v=3X-TAuWdIAc)
 
 [Yandex MLSD interview guide](https://youtu.be/krDfPEYVVvk)
